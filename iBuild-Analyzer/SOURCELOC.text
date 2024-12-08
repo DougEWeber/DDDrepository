@@ -1,0 +1,23 @@
+Source Location Report
+Summary report:
+DDDLIVE objects:
+    Objects with source in library DDDSRC: 14
+
+Detail report:
+DDDLIVE objects:
+    Objects with source in library DDDSRC:
+        *MODULE RPGLE   DDDLIVE/CUSMAIN                     
+        *FILE DSPF      DDDLIVE/MAINMENU                    
+        *MODULE RPGLE   DDDLIVE/CUSMNT                      
+        *FILE LF        DDDLIVE/CUSMSTL1                    
+        *FILE PF        DDDLIVE/CUSMST                      
+        *FILE DSPF      DDDLIVE/MNTMENU                     
+        *MODULE RPGLE   DDDLIVE/SCHNAM                      
+        *FILE LF        DDDLIVE/CUSMSTL3                    
+        *FILE DSPF      DDDLIVE/SCHNAMD                     
+        *MODULE RPGLE   DDDLIVE/SCHZIP                      
+        *FILE LF        DDDLIVE/CUSMSTL2                    
+        *FILE DSPF      DDDLIVE/SCHZIPD                     
+        *PGM RPGLE      DDDLIVE/SCHNAMRPG                   
+        *CMD            DDDLIVE/CUSTMAINT                   
+End of Source Location Report.

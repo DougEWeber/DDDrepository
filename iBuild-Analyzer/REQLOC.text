@@ -1,0 +1,32 @@
+Requisite Location Report
+Summary report:
+DDDLIVE objects:
+    Objects with requisites in library DDDLIVE: 7
+    Objects with requisites in library DDDLIVE: 7
+    Objects with requisites in library DDDSRC: 13
+
+Detail report:
+DDDLIVE objects:
+    Objects with requisites in library DDDLIVE:
+        *FILE LF        DDDLIVE/CUSMSTL1                    
+        *FILE LF        DDDLIVE/CUSMSTL2                    
+        *FILE LF        DDDLIVE/CUSMSTL3                    
+        *FILE DSPF      DDDLIVE/MNTMENU                     
+        *FILE DSPF      DDDLIVE/SCHNAMD                     
+        *FILE DSPF      DDDLIVE/SCHZIPD                     
+        *PGM RPGLE      DDDLIVE/CUSTMAINT                   
+    Objects with requisites in library DDDSRC:
+        *CMD            DDDLIVE/CUSTMAINT                   
+        *FILE PF        DDDLIVE/CUSMST                      
+        *FILE LF        DDDLIVE/CUSMSTL1                    
+        *FILE LF        DDDLIVE/CUSMSTL2                    
+        *FILE LF        DDDLIVE/CUSMSTL3                    
+        *FILE DSPF      DDDLIVE/MAINMENU                    
+        *FILE DSPF      DDDLIVE/MNTMENU                     
+        *FILE DSPF      DDDLIVE/SCHNAMD                     
+        *FILE DSPF      DDDLIVE/SCHZIPD                     
+        *MODULE RPGLE   DDDLIVE/CUSMAIN                     
+        *MODULE RPGLE   DDDLIVE/CUSMNT                      
+        *MODULE RPGLE   DDDLIVE/SCHNAM                      
+        *MODULE RPGLE   DDDLIVE/SCHZIP                      
+End of Requisite Location Report.
